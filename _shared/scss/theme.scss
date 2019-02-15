@@ -12,8 +12,8 @@ Shared styles for javascript exercices
     min-height: 350px;
     object-fit: cover;
 
-    .carousel-caption {
-        background-color: rgba(0, 0, 0, 0.2);
+    .carousel-caption .d-none .d-md-block{
+        background-color: rgba(0, 0, 0, 0.5);
     }
 }
 
